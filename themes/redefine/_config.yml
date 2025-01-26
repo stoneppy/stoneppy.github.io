@@ -202,9 +202,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
+    Archives:
+       path: /archives
+       icon: fa-regular fa-archive # can be empty
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -245,9 +245,9 @@ home:
       # Archives: 
       #   path: /archives 
       #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
+       Tags:
+         path: /tags
+         icon: fa-regular fa-tags # can be empty
       # Categories: 
       #   path: /categories 
       #   icon: fa-regular fa-folder # can be empty

@@ -1,8 +1,11 @@
 ---
 title: union-gateway清单
 tags:
-  - demo
+  - java
+  - gateway
 thumbnail: "../images/scene.jpg"
+categories:
+  - 技术集
 
 ---
 ------
