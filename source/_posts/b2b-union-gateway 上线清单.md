@@ -1,5 +1,9 @@
 ---
 title: union-gateway清单
+tags:
+  - demo
+thumbnail: "../images/scene.jpg"
+
 ---
 ------
 

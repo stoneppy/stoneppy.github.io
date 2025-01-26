@@ -131,7 +131,7 @@ home_banner:
   title: Enjoy Note
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ["Life Needs Noted"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -259,11 +259,11 @@ home:
   # Article categories visibility
   categories:
     enable: true  # Whether to enable
-    limit: 3 # Max number of categories to display
+    limit: 10 # Max number of categories to display
   # Article tags visibility
   tags:
     enable: true  # Whether to enable
-    limit: 3  # Max number of tags to display
+    limit: 10  # Max number of tags to display
 # HOME PAGE ARTICLE SETTINGS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -393,7 +393,7 @@ footer:
   # Icon in footer, write fontawesome icon code here
   icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
-  start: 2022/8/17 11:45:14
+  start: 2025/01/01 00:00:00
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
