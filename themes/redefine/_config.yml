@@ -215,10 +215,10 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    # Links: 
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
+    Links:
+       icon: fa-regular fa-link
+       submenus:
+         github: https://github.com/stoneppy/stoneppy.github.io
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
