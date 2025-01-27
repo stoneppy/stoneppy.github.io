@@ -3,7 +3,7 @@ title: union-gateway清单
 tags:
   - java
   - gateway
-thumbnail: "../images/scene.jpg"
+thumbnail: "/images/scene.jpg"
 categories:
   - 技术集
 ---

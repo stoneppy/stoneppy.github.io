@@ -6,7 +6,7 @@ tags:
   - Spring Cache
 categories:
   - 技术集
-thumbnail: "../images/night.jpg"
+thumbnail: "/images/night.jpg"
 excerpt: false
 
 ---

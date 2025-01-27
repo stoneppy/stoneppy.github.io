@@ -5,7 +5,7 @@ tags:
   - gateway
 categories:
   - 技术集
-thumbnail: "../images/yellow_scene.jpg"
+thumbnail: "/images/yellow_scene.jpg"
 
 ---
 ------
